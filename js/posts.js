@@ -1,1 +1,1 @@
-[{"title":"hello Hexo","date":"2018.06.07","uri":"2018/06/07/hello-Hexo/","excerpt":""},{"title":"hello word!!!!","date":"2018.06.07","uri":"2018/06/07/hello-word/","excerpt":""},{"title":"Hello World","date":"2018.06.07","uri":"2018/06/07/hello-world/","excerpt":""},{"title":"hello 志明","date":"2018.06.07","uri":"2018/06/07/hello-志明/","excerpt":""}]
+[{"title":"start","date":"2018.06.08","uri":"2018/06/08/start/","excerpt":""}]
